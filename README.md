@@ -1,9 +1,10 @@
 <div align="center">
 
-![githubbanneryeni]()
+![githubbanneryeni](z4800688864239_1b23661a7312060f8f7c80964da40137.jpg
+)
 
 
-### <div align="center">-We Are Core Node Team-</div>  
+### <div align="center">-We Are Murphy Node&Validator -</div>  
 
  <!-- 
   <a href="https://twitter.com/corenodeHQ" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/76253089/236428283-e424a432-ebb0-45a6-aa0a-6ac4fbf67908.png" alt="React" height="40" /></a>
