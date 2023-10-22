@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo]( width=500px height=300px)
+![logo](https://github.com/Murphy-luckycreator/Murphy-luckycreator/blob/main/z4800688864239_1b23661a7312060f8f7c80964da40137.jpg?raw=true width=500px height=300px)
 
 
 ### <div align="center">-We Are Murphy Node&Validator -</div>  
