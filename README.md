@@ -1,16 +1,14 @@
 <div align="center">
 
-![logo](https://github.com/Murphy-luckycreator/Murphy-luckycreator/blob/main/z4800688864239_1b23661a7312060f8f7c80964da40137.jpg?raw=true width=500px height=300px)
+![logo](https://github.com/Murphy-luckycreator/Murphy-luckycreator/blob/main/z4800688864239_1b23661a7312060f8f7c80964da40137.jpg?raw=true = 500*300)
 
 
 ### <div align="center">-We Are Murphy Node&Validator -</div>  
 
 </div> 
 
-***<ins><div align="center">We actively participate in dozens of testnets, helping to keep them running and debugging, participating in development and support for an early start.⚡ You can contact us through our social media or chat channels.</ins>*** 
-
-## | [Website](https://corenode.team) |
-## | [Twitter](https://twitter.com/corenodeHQ) | [Discord](https://discord.gg/w8kquFEkwR) | [Telegram](https://t.me/corenodechat) | 
+## | [Website]() |
+## | [Twitter]() | [Discord]() | [Telegram]() | 
 
 </div>
 
